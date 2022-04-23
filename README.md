@@ -16,6 +16,14 @@ To start server perform following commands in the new terminal
 ```
 cd server
 ```
+- Now install all the dependencies. This will create node_modules folder in server directory.
+```
+npm install
+```
+- Now create the **.env** file into the server directory. In the .env file write the following key and value(value should be your mongoDB connection string).
+```
+DB_URI = "value" //add your mongoDB database connection string as value
+```
 - After that, Run the following command to start the server.
 ```
 npm run start
@@ -29,6 +37,10 @@ To start client perform following commands in the new terminal
 - First move to the client directory by following command.
 ```
 cd client
+```
+- Now install all the dependencies. This will create node_modules folder in client directory.
+```
+npm install
 ```
 - After that, Run the following command to start the client.
 ```
