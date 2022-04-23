@@ -23,6 +23,18 @@ To start client perform following commands in the new terminal
 1. **cd client**
 2. **npm start**
 
+After running above commands you can see this type of message of **"Compiled successfully!"** in the terminal.
+![image](https://user-images.githubusercontent.com/86464832/164884060-6d4de3d9-3e49-436e-b2ab-b6412381724b.png)
+
+
 This commands will start your client and you can see the application running on the browser,
+
 This is running locally on http://localhost:3000/
 ![image](https://user-images.githubusercontent.com/86464832/164883928-9811f485-acee-4f71-92b8-ae7f4f00d0cc.png)
+
+
+## Author
+**Dhruvil Lathiya**
+
+github - https://github.com/Dhruvil015
+
