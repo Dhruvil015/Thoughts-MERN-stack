@@ -45,3 +45,5 @@ This is running locally on http://localhost:3000/
 
 github - https://github.com/Dhruvil015
 
+project link - https://github.com/Dhruvil015/Thoughts-MERN-stack
+
